@@ -23,3 +23,8 @@ and complexity.
 - Dynamic programming
 - Union-Find with path compression
 - Time complexity analysis
+
+### Authors
+
+- Mateus Scarpin Ribeiro
+- Sergio de Almeida Cezar
